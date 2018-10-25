@@ -1,6 +1,8 @@
 # Guide
 * i'm so bored
   * aren't you? 
-  * hey, please respond!
-  * tell me~ tell me
-  수한이꺼 망처버리기~~~~~
+
+=======
+  * tell me~ tell me~
+  * seyoun don't touch my file!!!
+>>>>>>> 757776a67ca3cdb85ef2288f3c6ae5fc48bac878
